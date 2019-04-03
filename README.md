@@ -1,4 +1,4 @@
-# Box Office Brawl - Movie API Project
+# Box Office Brawl - Best Movie API Project Ever!!!!
 ---
 Allows users to compare the ratings of two movies based on their Internet Movie Database (IMDb), Rotten Tomatoes, and Metacritic Scores.
 
